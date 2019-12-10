@@ -1,4 +1,4 @@
-package censusanalyser;
+package com.csvfile;
 
 public class CSVBuilderFactory {
 
